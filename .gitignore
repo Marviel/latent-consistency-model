@@ -2,3 +2,4 @@ venv
 *.png
 output/
 prompts.txt
+.DS_Store
